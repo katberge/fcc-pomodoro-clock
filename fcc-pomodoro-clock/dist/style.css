@@ -26,7 +26,6 @@ h1 {
 
 #break,
 #session {
-  @include section;
   font-size: 1.8rem;
   background-color: #f5c5db;
   height: 150px;
@@ -37,7 +36,6 @@ h1 {
 }
 
 #timer {
-  @include section;
   font-size: 2.3rem;
   background-color: #c5f5df;
   padding: 40px 70px 90px 70px;
